@@ -1,0 +1,4 @@
+httpx
+colorama
+pystyle
+beautifulsoup4
