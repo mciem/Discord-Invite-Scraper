@@ -7,3 +7,6 @@ To run you have to:
 4. go back to main folder
 5. if it is your first run run setup.bat
 6. run program using run.bat
+
+
+discord server: https://discord.gg/hcap
