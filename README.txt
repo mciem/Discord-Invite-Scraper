@@ -1,5 +1,3 @@
-# Discord-Invite-Scraper
-
 Fast invite scraper usefull for sniping and filling tokens
 
 To run you have to:
